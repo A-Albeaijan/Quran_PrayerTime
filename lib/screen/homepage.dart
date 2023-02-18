@@ -141,7 +141,7 @@ class _HomePageState extends State<HomePage> {
                           height: size.height * 0.7,
                           color: redColor,
                           image: 'assets/prayer.png',
-                          title: 'Prayer',
+                          title: 'Prayer Time',
                         ),
                         customContainer(
                           page: 'Loaction',
